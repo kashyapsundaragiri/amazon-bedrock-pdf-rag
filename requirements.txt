@@ -1,0 +1,18 @@
+# AWS SDK
+boto3>=1.35.0
+
+# Web UI
+streamlit>=1.38.0
+
+# LangChain & Bedrock Integrations
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-aws>=0.2.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-classic>=0.1.0
+
+# Vector Store & Document Processing
+faiss-cpu>=1.8.0
+pypdf>=4.3.0
+numpy>=1.26.0
